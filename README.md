@@ -3,8 +3,8 @@
 ![productShot001](https://github.com/Archive-663/bronicaS2A/blob/main/ASSETS/PHOTO/PRODUCT/1%20(3).jpg)
 
 ### In this repository:
-- [ViewFinder](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
-- [Mirror Depth Checker](https://github.com/Archive-663/olympusPENF/tree/main/baseBody)
+- [ViewFinder](https://github.com/Archive-663/bronicaS2A/tree/main/viewFinder)
+- [Mirror Depth Checker](https://github.com/Archive-663/bronicaS2A/tree/main/mirrorDepthChecker)
 
 ### Background Story:
 I've always wanted an S2A. It's a beautiful camera. As a cheap ass film photographer enthusiast, I try to use what I already have as much as possible. One of the biggest things about the S2A is its ridiculously long flange focal distance. That means you can't adapt most lenses to it. So I designed a little tool to help determine whether or not you can adapt a specific lens to it. 
