@@ -1,6 +1,6 @@
 # Lot no. 022 | Accessories for the Zenza Bronica S2 medium format cameras
 
-![productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
+![productShot001](https://github.com/Archive-663/bronicaS2A/blob/main/ASSETS/PHOTO/PRODUCT/1%20(3).jpg)
 
 ### In this repository:
 - [ViewFinder](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
