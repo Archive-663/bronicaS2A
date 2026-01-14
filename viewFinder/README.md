@@ -1,6 +1,6 @@
 ## Viewfinder Bracket for adapting other brand viewfinders to the Bronica S2A
 
-![bronicaViewfinderAdapter](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(4).jpg)
+![bronicaViewfinderAdapter](https://github.com/Archive-663/bronicaS2A/blob/main/ASSETS/PHOTO/PRODUCT/1%20(2).jpg)
 
 ### Features:
 - Designed for Hasselblad 52051
